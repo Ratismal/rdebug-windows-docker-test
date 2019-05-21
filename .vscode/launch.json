@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Listen for rdebug-ide",
+            "name": "Attach Debugger",
             "type": "Ruby",
             "request": "attach",
             "remoteHost": "127.0.0.1",
